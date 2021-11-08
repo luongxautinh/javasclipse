@@ -1,1 +1,5 @@
-# javasclipse
+- 👋 Hi, My name is Trương Văn Lương
+- 👀 I was born on April 24, 1999, currently living in Hanoi.
+- 🌱 I’m currently an Web-development
+- 💞️ I’m graduated from PTIT school
+- 📫 I like playing games, running, kicking soccer,..
